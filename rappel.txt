@@ -1,0 +1,5 @@
+git init permet de demarrer un depot git
+git status permet de verifier le statut du depot
+Untracked correspond au statut d'un fichier qui n'est pas present dans l'index git
+git add permet d'ajouter une version d'un fichier a l'index git
+Changes to be committed correspond a la liste des versions de fichier indexees
